@@ -1,0 +1,12 @@
+{
+  "name": "JStack",
+  "version": "1.0.0",
+  "description": "JavaScript stack",
+  "main": "index.js",
+  "repository": "https://github.com/marko-mlinarevic/JStack.git",
+  "author": "Marko Mlinarević <1marko.mlinarevic@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
